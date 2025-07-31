@@ -39,4 +39,4 @@ The final strategy was backtested on a portfolio of 60+ stocks from the NSE Nift
 
 ---
 
-*(Add your name or GitHub handle here)*
+sYanXO

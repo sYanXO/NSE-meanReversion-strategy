@@ -22,7 +22,8 @@ The final strategy was backtested on a portfolio of 60+ stocks from the NSE Nift
 * **Cumulative Return:** 143.12%
 * **Win Rate:** 76.19%
 
-*(Insert a screenshot of your final backtest result here)*
+<img width="341" height="78" alt="image" src="https://github.com/user-attachments/assets/ae1a8c5c-303b-4500-b78f-1383d13864d2" />
+
 
 ### How to Run
 

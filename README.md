@@ -23,6 +23,8 @@ The final strategy was backtested on a portfolio of 60+ stocks from the NSE Nift
 * **Assumed Transaction Cost:** 0.1%
 * **Assumed Slippage:** 0.1%
 
+<img width="444" height="114" alt="image" src="https://github.com/user-attachments/assets/f3497fb4-b439-4853-ba05-37b57857221b" />
+
 
 
 

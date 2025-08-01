@@ -19,7 +19,7 @@ The final strategy was backtested on a portfolio of 60+ stocks from the NSE Nift
 
 * **Total trades across portfolio:** 22
 * **Cumulative Return:** 13.46%
-* **Win Rate:** 76.19%
+* **Win Rate:** 72.72%
 * **Assumed Transaction Cost:** 0.1%
 * **Assumed Slippage:** 0.1%
 

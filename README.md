@@ -1,5 +1,4 @@
-# NSE Mean Reversion Quantitative Trading Strategy
-
+# Market-Neutral Quant Strategy: Mean Reversion on NSE
 A backtested, portfolio-based mean reversion strategy developed and optimized for the Indian stock market (NSE). This project demonstrates the iterative process of building a quantitative trading model, from a simple idea to a robust, profitable system.
 
 ### The Problem
@@ -18,11 +17,13 @@ To address the strategy's flaws, a multi-stage optimization process was implemen
 
 The final strategy was backtested on a portfolio of 60+ stocks from the NSE Nifty 100 over a 4.5-year period (2020-2024).
 
-* **Total trades across portfolio:** 42
-* **Cumulative Return:** 143.12%
+* **Total trades across portfolio:** 22
+* **Cumulative Return:** 13.46%
 * **Win Rate:** 76.19%
+* **Assumed Transaction Cost:** 0.1%
+* **Assumed Slippage:** 0.1%
 
-<img width="341" height="78" alt="image" src="https://github.com/user-attachments/assets/ae1a8c5c-303b-4500-b78f-1383d13864d2" />
+
 
 
 ### How to Run
